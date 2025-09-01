@@ -20,7 +20,7 @@ Becoming interview-ready for backend/full-stack roles.
 Next.js, Prisma, Supabase, JWT, OAuth, Redux, API design & authentication best practices.
 
 ### 📫 Contact
-Reach me on [LinkedIn](https://www.linkedin.com/in/maherun-ela) or via email.
+Reach me on [LinkedIn](https://www.linkedin.com/in/maherun-ela) or via email meherunela2002@gmail.com.
 
 ### ⚡ Fun Fact
 I’m relentless when it comes to hunting down bugs!
@@ -92,6 +92,6 @@ Search performance and responsiveness could be improved to ensure a smooth user 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maherun-nessa-ela)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maherun-nessa-ela)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/MaherunEla)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meherunela2002@gmail.com)  
